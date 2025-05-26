@@ -2,15 +2,6 @@
 
 PyTorch implementation of the paper "Uncertainty-Aware Image Captioning (UAIC)".
 
-## TODO
-- Implement Image Encoder
-- Implement Uncertainty Estimator
-- Implement Insertion Transformer
-- Implement DP-based Masking Algorithm
-- Implement Uncertainty-Adaptive Beam Search
-- Implement Data Preprocessing and Vocabulary
-- Implement Training and Evaluation Scripts
-
 ## Data Requirement
 Download data and put it in right path.
 - Karpathy Splits [https://www.kaggle.com/datasets/shtvkumar/karpathy-splits]
