@@ -15,3 +15,8 @@ PyTorch implementation of the paper "Uncertainty-Aware Image Captioning (UAIC)".
 - data/karpathy_split/dataset_coco.json
 - data/mscoco/train2014
 - data/mscoco/val2014
+
+## Execution Order
+1.  src/utils/vocabulary.py
+2.  src/train.py
+3.  src/evaluate.py
