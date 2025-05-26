@@ -1,0 +1,10 @@
+torch
+torchvision
+nltk 
+pycocoevalcap
+pycocotools
+tqdm
+numpy
+# Other necessary packages will be added later
+# For COCO evaluation:
+# pycocotools 
