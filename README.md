@@ -12,9 +12,12 @@ PyTorch implementation of the paper "Uncertainty-Aware Image Captioning (UAIC)".
 - Implement Training and Evaluation Scripts
 
 ## Data Requirement
-- data/karpathy_split/dataset_coco.json
-- data/mscoco/train2014
-- data/mscoco/val2014
+Download data and put it in right path.
+- Karpathy Splits [https://www.kaggle.com/datasets/shtvkumar/karpathy-splits]
+  - data/karpathy_split/dataset_coco.json
+- MSCOCO 2014 Dataset [https://cocodataset.org/#download]
+  - data/mscoco/train2014
+  - data/mscoco/val2014
 
 ## Execution Order
 1.  src/utils/vocabulary.py
